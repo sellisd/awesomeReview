@@ -6,6 +6,7 @@ Here are the requirements for a successful review. I have classified the require
 - 👁 those that need a careful look by a human
 - ⁇ Could possibly be automated, but I do not know the technology to do it
 
+## Requirements for a readme file in an [awesome list](https://github.com/sindresorhus/awesome)
 - ⁇ **Has been around for at least 30 days.**<br>That means 30 days from either the first real commit or when it was open-sourced. Whatever is most recent.
 - 👁 It's the result of hard work and the best I could possibly produce.
 - ⁇ Non-generated Markdown file in a GitHub repo.
